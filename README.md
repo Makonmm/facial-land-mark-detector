@@ -16,7 +16,14 @@ The neural network is trained using a labeled facial image dataset. The architec
 
 ## Images
 
+### Predictions
 ![Results](images/results.PNG)
+
+### Errors
 ![Errors](images/errors.PNG)
+
+### Accuracy
 ![Accuracy](images/acc1.PNG)
+
+### Loss 
 ![Loss](images/loss1.PNG)
